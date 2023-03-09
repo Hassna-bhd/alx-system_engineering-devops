@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod up+*.o+r hello
+chmod up+x.o+r hello
